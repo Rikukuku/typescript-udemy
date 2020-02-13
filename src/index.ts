@@ -13,3 +13,5 @@ console.log(num)
 const magic = ():void => {
   console.log('test')
 }
+
+const someArray: (string | boolean | number)[] = ["hoge", false, 2]
