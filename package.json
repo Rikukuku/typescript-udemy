@@ -1,0 +1,26 @@
+{
+  "name": "typescript-udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsnd --respawn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikukuku/typescript-udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikukuku/typescript-udemy/issues"
+  },
+  "homepage": "https://github.com/Rikukuku/typescript-udemy#readme",
+  "devDependencies": {
+    "ts-node": "^8.5.4",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.5"
+  }
+}
